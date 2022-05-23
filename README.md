@@ -1,6 +1,6 @@
 # React 簡單介紹
-https://img.shields.io/badge/npm-v8.10.0-blue
-https://img.shields.io/badge/node-v16.13.2-blue
+
+![npm version](https://img.shields.io/badge/npm-v8.10.0-blue) ![node version](https://img.shields.io/badge/node-v16.13.2-blue)
 
 ### Intro
 [React](https://zh-hant.reactjs.org/)是一個前端的 ”Library” ，**不是框架**，甚至不是web獨有的開發技術，它可以和其他函式庫或套件搭配使用，以在特定環境中渲染，主要目標是最大限度減少開發者建構UI介面時出現的錯誤。
