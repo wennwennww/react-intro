@@ -68,6 +68,6 @@ useEffect(() => {
 
 
 ### References
-[React 新手入門 - 學習該如何開發 Web | MDN](https://developer.mozilla.org/zh-TW/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-[什麼是 JSX? - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10239097)
-[React Hook使用大全，新手入门看这篇够了！ - 掘金](https://juejin.cn/post/7079291631630811172)
+- [React 新手入門 - 學習該如何開發 Web | MDN](https://developer.mozilla.org/zh-TW/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [什麼是 JSX? - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10239097)
+- [React Hook使用大全，新手入门看这篇够了！ - 掘金](https://juejin.cn/post/7079291631630811172)
