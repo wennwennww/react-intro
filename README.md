@@ -6,8 +6,8 @@
 [React](https://zh-hant.reactjs.org/)是一個前端的 ”Library” ，**不是框架**，甚至不是web獨有的開發技術，它可以和其他函式庫或套件搭配使用，以在特定環境中渲染，主要目標是最大限度減少開發者建構UI介面時出現的錯誤。
 
 > 庫(Library) 與 框架(Framework) 的差別
->當你在調用Library的時候，按照自己的意願來使用，自由度高（比如jQuery）。
->對於framework，是自己被調用，你必須很照他的模式進行開發，（比如bootstrap)。
+> - 當你在調用Library的時候，按照自己的意願來使用，自由度高（比如jQuery）。
+> - 對於framework，是自己被調用，你必須很照他的模式進行開發，（比如bootstrap)。
 
 ### How to start?
 1. CRA (Create React App)
